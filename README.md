@@ -1,0 +1,1 @@
+[![Run Tests](https://github.com/PussyBonpensiero/CI_practice2/actions/workflows/ci.yml/badge.svg)](https://github.com/PussyBonpensiero/CI_practice2/actions/workflows/ci.yml)
